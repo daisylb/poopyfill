@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A much-needed polyfill.",
   "main": "index.js",
+  "types": "index.d.ts",
   "license": "CC0",
   "homepage": "https://github.com/excitedleigh/poopyfill",
   "devDependencies": {
