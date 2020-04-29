@@ -1,0 +1,14 @@
+{
+  "name": "poopyfill",
+  "version": "1.0.0",
+  "description": "A much-needed polyfill.",
+  "main": "index.js",
+  "license": "CC0",
+  "homepage": "https://github.com/excitedleigh/poopyfill",
+  "devDependencies": {
+    "ava": "^3.8.1"
+  },
+  "scripts": {
+    "test": "ava"
+  }
+}
